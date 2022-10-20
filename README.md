@@ -15,10 +15,10 @@
 ## [Download Link](https://github.com/AhmedFarhan252/SafarNama/releases)
 ## [Presentation](https://www.canva.com/design/DAEQOL9rAyA/OSeFMG8oTmGz1zM5R2QWxQ/view?utm_content=DAEQOL9rAyA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-<img src="Images/magic-sheet.png" width="800" height="600" />
-<img src="Images/search-markers.png" width="800" height="600" />
-<img src="Images/interact-ar.png" width="800" height="600" />
-<img src="Images/test-knowledge.png" width="800" height="600" />
+<img src="Images/magic-sheet.png" width="800" height="500" />
+<img src="Images/search-markers.png" width="800" height="500" />
+<img src="Images/interact-ar.png" width="800" height="500" />
+<img src="Images/test-knowledge.png" width="800" height="500" />
 
 
 ## Team
