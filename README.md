@@ -1,12 +1,28 @@
 # SafarNama
 
-## An Android application that makes historical and cultural trips of Pakistan more accessible and engaging through the use of Augmented Reality, 3D interactive Exhibits, and a gamified approach.
+Educational virtual touring application for mobile to showcase the heritage and culture of Pakistan through gamified Augmented Reality stories for children with interactive dialogues and historical exhibits as 3D models.
+
+## Key concepts and advantages:
+- Gamification (Quizzes, Leaderboards)
+- Story-based learning
+- Interactive learning
+- Spatial learning
+- Historical knowledge
+- Parental involvement
+- Physical engagement
+
+
+![magic-sheet](images/magic-sheet.png)
+![search-markers](images/search-markers.png)
+![interact-ar](images/interact-ar.png)
+![test-knowledge](images/test-knowledge.png)
+
 
 ---
 
 ## [Demo Video](https://drive.google.com/file/d/18yr_Bmii4lxhLZcNgRa9FL_sL9e0CZIp/view?usp=sharing)
 ## [Download Link](https://github.com/AhmedFarhan252/SafarNama/releases)
-
+## [Presentation](https://www.canva.com/design/DAEQOL9rAyA/OSeFMG8oTmGz1zM5R2QWxQ/view?utm_content=DAEQOL9rAyA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
